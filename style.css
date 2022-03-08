@@ -3,3 +3,21 @@ img {
   height: auto;
   width: 500px;
 }
+
+body{
+  background-color: rgb(246, 250, 162);
+}
+
+h1{
+  color: red;
+  text-decoration: underline;
+  font-size: 5em;
+}
+
+p{
+  font-size: 2em;
+}
+
+strong{
+  color: red;
+}
